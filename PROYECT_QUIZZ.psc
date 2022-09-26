@@ -4,6 +4,7 @@ Algoritmo PROJECT_1
 	Leer name
 	Price= 0
 	Time= 0
+	Loop= 0
 	Escribir 
 	Escribir 
 	Leer answer
@@ -18,12 +19,18 @@ Algoritmo PROJECT_1
 				Segun  respuesta_1 Hacer
 					1:
 						Price = Price +0
+						Loop=3
 					2:
 						Price = Price +1
+						Loop=3
 					3:
 						Price = Price +2
+						Loop=3
 					De Otro Modo:
 						Escribir "Plese write only the number of the answer"
+						Loop= 0
+						
+						
 				Finsegun
 		2:
 			Price = Price +2
