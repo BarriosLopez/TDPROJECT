@@ -94,42 +94,42 @@ FinSegun
 			Escribir 
 	Fin Segun
 	Si (price= 1 & Time>0) Entonces
-		Escribir 
+		Escribir "Peperoni"
 	SiNo
 	
 	FinSi
 	Si (price= 2 & Time<=0) Entonces
-		Escribir 
+		Escribir "Hawaiana"
 	SiNo
 		 
 	FinSi
 	Si (price=3 & Time>0) Entonces
-		Escribir 
+		Escribir "Meat"
 	SiNo
 	FinSi
 		Si (Price=4 & Time<=0) Entonces
-			Escribir 
+			Escribir "Three kinds of cheese"
 		SiNo 
 		FinSi
 		
 			Si (Price=4 & Time>0) Entonces
 				
-				Escribir 
+				Escribir "Margarita"
 			SiNo 
 			FinSi
 			
-				SI (Price=3 & Time<=0) Entonces
-					Escribir 
+				SI (Price=3 & Time<=0) Entonces 
+					Escribir "Veggie"
 				SiNo  
 				FinSi
 				
 					Si (Price=2 &  Time>0) Entonces
-						Escribir 
+						Escribir "Classic meat"
 					SiNo 
 					FinSi
 					
 						Si (Price=1 & Time<=0) Entonces
-							Escribir 
+							Escribir "Ham"
 						SiNo 
 						FinSi
 							
