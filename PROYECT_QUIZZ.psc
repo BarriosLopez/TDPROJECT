@@ -1,5 +1,5 @@
 Algoritmo PROJECT_1
-	Escribir  
+	Escribir  "Welcome"
 	Escribir 
 	Leer name
 	Price= 0
