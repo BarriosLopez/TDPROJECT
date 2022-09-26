@@ -1,4 +1,4 @@
-Algoritmo PROYECT_1
+Algoritmo PROJECT_1
 	Escribir  
 	Escribir 
 	Leer name
