@@ -1,6 +1,6 @@
 Algoritmo PROJECT_1
 	Escribir  "Welcome"
-	Escribir 
+	Escribir "What`s your name?"
 	Leer name
 	Price= 0
 	Time= 0
