@@ -1,6 +1,6 @@
 Algoritmo PROJECT_1
-	Escribir  "Welcome"
-	Escribir 
+	Escribir  "Welcome to: What type of pizza are you?"
+	Escribir "What's your name?"
 	Leer name
 	Price= 0
 	Time= 0
